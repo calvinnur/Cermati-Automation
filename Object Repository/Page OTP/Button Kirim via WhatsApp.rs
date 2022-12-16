@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Kirim via WhatsApp</name>
+   <tag></tag>
+   <elementGuidId>643fea27-5f23-47da-b24a-3c9720a85596</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@data-button-name='send-otp-whatsapp']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn_SGZcZ.btn-track.btn--secondary_4gXBW.btn--block_AZwP5.m-t-16</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>56c9cdcd-edd9-4b7e-b660-faa48decc62c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-button-name</name>
+      <type>Main</type>
+      <value>send-otp-whatsapp</value>
+      <webElementGuid>4ea4e70d-684d-45db-9493-67125718e587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_SGZcZ btn-track btn--secondary_4gXBW btn--block_AZwP5 m-t-16</value>
+      <webElementGuid>08eb9d64-786c-4cbd-a054-de83ae409d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f0b29c57-403d-4d6c-a75b-55216fc0f8c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kirim via WhatsApp</value>
+      <webElementGuid>6f133fbb-f64f-4ede-887b-b3851b660ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;safe-area&quot;)/div[@class=&quot;HeaderFooter_header-gap__J8a3Q&quot;]/div[@class=&quot;superapp-container content&quot;]/div[@class=&quot;container_Eq-qi&quot;]/div[@class=&quot;m-t-16&quot;]/div[1]/button[@class=&quot;btn_SGZcZ btn-track btn--secondary_4gXBW btn--block_AZwP5 m-t-16&quot;]</value>
+      <webElementGuid>49128717-dc0d-4605-8730-0b562b141a56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>fd0d6442-b5e3-4960-99d2-65758b31360f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='safe-area']/div[2]/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>92d9d0a3-0b03-4c10-a2c3-7cb5da63a713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih metode verifikasi untuk mengirim kode OTP'])[1]/following::button[1]</value>
+      <webElementGuid>81ea16e5-5b56-46c4-99e9-36163016cfb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Metode Verifikasi'])[1]/following::button[1]</value>
+      <webElementGuid>376134d1-8a2c-4b5b-9fdb-94ec92ce1c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim via SMS'])[1]/preceding::button[1]</value>
+      <webElementGuid>f833a09d-cdd1-4312-be14-3441b7131c01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[2]</value>
+      <webElementGuid>d5028c63-90d2-4822-9e70-5313ecc7b839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kirim via WhatsApp']/parent::*</value>
+      <webElementGuid>40ae9047-1328-4b8b-b570-64aa37e34c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[@data-button-name='send-otp-whatsapp']</value>
+      <webElementGuid>7c6a7dd4-6e0a-4308-9ceb-3a8ffbe0925c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Kirim via WhatsApp' or . = 'Kirim via WhatsApp')]</value>
+      <webElementGuid>527e074a-a36d-4f2f-a053-4556c00c389a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

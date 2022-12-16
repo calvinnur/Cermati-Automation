@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title Daftar Akun</name>
+   <tag></tag>
+   <elementGuidId>23a1f914-d488-41b5-a52c-50b811338e2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[contains(@class,'header')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.header_2xOrt.AppHeader_card__header-title__9bScY.mx-auto.text-color-gray-dark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>e5fc0fd2-2516-496c-9fa0-ea509fc8510a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header_2xOrt AppHeader_card__header-title__9bScY mx-auto text-color-gray-dark</value>
+      <webElementGuid>f9c06edd-517d-45df-94bb-650d7b728ce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Akun</value>
+      <webElementGuid>f1a0b1e1-e9f8-401a-a9bf-a2a5e7b8ccc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;safe-area&quot;)/div[2]/div[@class=&quot;superapp-container AppHeader_container__gY16K&quot;]/div[@class=&quot;AppHeader_card__hPYXS background-primary&quot;]/h1[@class=&quot;header_2xOrt AppHeader_card__header-title__9bScY mx-auto text-color-gray-dark&quot;]</value>
+      <webElementGuid>2f433a5c-e0cf-4e92-8150-cbaf58fbe8ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='safe-area']/div[2]/div/div/h1</value>
+      <webElementGuid>f67a7589-4254-40b7-bed7-02d13eef6615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::h1[1]</value>
+      <webElementGuid>a0dd1c00-77d9-4152-ae0c-f86ca88663ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Handphone'])[1]/preceding::h1[1]</value>
+      <webElementGuid>d7c55036-ae0a-4811-845b-67de76c7b75e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Akun']/parent::*</value>
+      <webElementGuid>4f1ba387-be0d-46f0-81dd-14812bc0f5d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1[contains(@class,'header')]</value>
+      <webElementGuid>850702bd-07ff-47fe-8e39-1c752bd6d1ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Daftar Akun' or . = 'Daftar Akun')]</value>
+      <webElementGuid>aaf37edb-283b-4b54-bc29-41b5373ca223</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

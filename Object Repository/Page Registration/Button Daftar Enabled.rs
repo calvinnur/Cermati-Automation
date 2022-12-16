@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Daftar Enabled</name>
+   <tag></tag>
+   <elementGuidId>4836f81d-ecff-4cc2-b51e-41ef0d3d0c71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@data-button-name='register-new']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.RegistrationForm_form-container__button-text__k6N8W</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d38d81f4-2c9a-4fc7-90f7-a77be7acee13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>RegistrationForm_form-container__button-text__k6N8W</value>
+      <webElementGuid>24a653b3-28c9-4362-a315-7cb122430a86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar</value>
+      <webElementGuid>f00db5c9-25ef-49ac-9551-9b73b33e7686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;safe-area&quot;)/div[@class=&quot;HeaderFooter_header-gap__J8a3Q&quot;]/div[@class=&quot;superapp-container content&quot;]/div[@class=&quot;container_Eq-qi&quot;]/button[@class=&quot;btn_SGZcZ btn-track btn--action_kallT RegistrationForm_form-container__button__rqOgr&quot;]/p[@class=&quot;RegistrationForm_form-container__button-text__k6N8W&quot;]</value>
+      <webElementGuid>adb01ad7-5462-4e22-92ab-b07116ae29d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='safe-area']/div[2]/div[2]/div/button/p</value>
+      <webElementGuid>8d6a35a4-682d-4a8c-acaa-9f49dedab289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/following::p[1]</value>
+      <webElementGuid>05d28646-d86b-47ff-9b10-9f9751d5b2c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/following::p[1]</value>
+      <webElementGuid>b120db07-c9e0-4795-9b2f-29e6a2abbf36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/preceding::p[1]</value>
+      <webElementGuid>4a58e78e-1b02-4013-b45a-b88a3ff07fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[3]</value>
+      <webElementGuid>4e793b79-a3d5-458b-aa22-47c460e140f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[@data-button-name='register-new']</value>
+      <webElementGuid>ade5002e-f006-4e20-8fe4-f0fb523387b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Daftar' or . = 'Daftar')]</value>
+      <webElementGuid>8cd5987d-d018-4629-969a-cc520d10f000</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

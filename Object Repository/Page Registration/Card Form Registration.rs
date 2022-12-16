@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Card Form Registration</name>
+   <tag></tag>
+   <elementGuidId>1059444d-4b8d-4259-ad78-daf1a732a57d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'container_Eq-qi')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container_Eq-qi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de683048-7005-4574-bccb-af87f856daf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container_Eq-qi</value>
+      <webElementGuid>2ed04c88-a611-4f0b-a4a0-8a99b88e97bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Emailcontoh: email@cermati.comNo. HandphoneKata SandiKata sandi harus memiliki panjang antara 8-50 karakter dan mengandung minimal 1 huruf besar, 1 huruf kecil, dan 1 angkaUlangi Kata SandiNama DepanNama BelakangKabupaten/KotaSaya menyetujui Syarat dan Ketentuan dan Kebijakan Privasi dan bersedia untuk dihubungi oleh Cermati.com.DaftarSudah punya akun? Masuk</value>
+      <webElementGuid>40dedd87-6963-4e70-a2a0-dba6c9b6f1e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;safe-area&quot;)/div[2]/div[@class=&quot;superapp-container content&quot;]/div[@class=&quot;container_Eq-qi&quot;]</value>
+      <webElementGuid>8df99dd9-244e-4d9c-8588-4d188054ac42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='safe-area']/div[2]/div[2]/div</value>
+      <webElementGuid>02a6b957-e07d-408b-949c-f277ee6c7d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Akun'])[1]/following::div[3]</value>
+      <webElementGuid>f91b6f0d-b2af-4b8d-acc2-7df1de48db8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>8550e73f-6d1f-4c67-9475-6fd2e1fead18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'container_Eq-qi')]</value>
+      <webElementGuid>f1b25cce-fcf3-4f3a-8996-fee1360776a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Emailcontoh: email@cermati.comNo. HandphoneKata SandiKata sandi harus memiliki panjang antara 8-50 karakter dan mengandung minimal 1 huruf besar, 1 huruf kecil, dan 1 angkaUlangi Kata SandiNama DepanNama BelakangKabupaten/KotaSaya menyetujui Syarat dan Ketentuan dan Kebijakan Privasi dan bersedia untuk dihubungi oleh Cermati.com.DaftarSudah punya akun? Masuk' or . = 'Emailcontoh: email@cermati.comNo. HandphoneKata SandiKata sandi harus memiliki panjang antara 8-50 karakter dan mengandung minimal 1 huruf besar, 1 huruf kecil, dan 1 angkaUlangi Kata SandiNama DepanNama BelakangKabupaten/KotaSaya menyetujui Syarat dan Ketentuan dan Kebijakan Privasi dan bersedia untuk dihubungi oleh Cermati.com.DaftarSudah punya akun? Masuk')]</value>
+      <webElementGuid>3d762fa8-e136-4abe-a121-e0688b879b91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
